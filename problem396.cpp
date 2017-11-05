@@ -1,6 +1,5 @@
-/*Problem 08
- * Álvaro García Tenorio
- * Doble grado de ingeniería informática y matemáticas*/
+/*Problem 396
+ * Álvaro García Tenorio*/
 
 #include <iostream>
 #include <algorithm>
